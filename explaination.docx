@@ -1,0 +1,18 @@
+
+The first function add takes two numbers as parameters and returns their sum. The type of parameters and return type is explicitly declared as number.
+
+The toString() method is used to convert a number to a string. Here, the number 10 is converted to a string and logged to the console.
+
+The boolean type is demonstrated with the variable isTrue which is set to true.
+
+The isEven function checks if a number is even. It takes a number as a parameter and returns a boolean value. If the number is even, it returns true, otherwise false.
+
+The any and unknown types are demonstrated with the variables anyValue and unknownValue. The any type can hold any type of value, while the unknown type is a more restrictive version of any.
+
+The map method is used to create a new array by performing a function on each element of an existing array. Here, each number in the array arr is multiplied by 2.
+
+The void return type is demonstrated with the greet function. This function doesn't return a value, it just logs "Hello World" to the console.
+
+The calculateAverage function calculates the average of an array of numbers. It sums up all the numbers and then divides by the length of the array.
+
+The findMaxValue function finds the maximum value in an array of numbers. It iterates through the array, comparing each number to the current maximum, and updates the maximum if it finds a larger number.
